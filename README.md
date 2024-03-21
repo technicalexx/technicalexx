@@ -10,7 +10,7 @@ Software Engineer
 
 *   🌍  I'm based in FL, USA
 *   :book: I'm learning Back-End Development, Design of DB Systems, Data Mining and ML
-*   :desktop_computer: Languages I'm Focusing on: Python, Swift, Java
+*   :desktop_computer: Languages I'm Currently Focusing on: Python, Swift, Java, and JavaScript
 *   🤝  I'm open to collaborating on Interesting Projects and Open-Source Issues
 *   ### Skills 
 <p align="left">
